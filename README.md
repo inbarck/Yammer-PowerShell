@@ -1,6 +1,9 @@
 # Yammer-PowerShell
 Create a PowerShell script that wraps the Yammer REST API
 
+** Important! This script is not supported by Microsoft or Yammer. ** 
+
+
 Download all files and save them to the same folder. Open PowerShell and navigate to the above folder.
 
 Run Yammer.ps1 – this script will load the Yammer PowerShell modules (psm1 files) - YammerAuth.psm1, YammerMessages.psm1 and YammerUsers.psm1. 
